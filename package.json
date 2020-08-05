@@ -2,6 +2,9 @@
   "name": "js-checkers-game",
   "version": "0.1.0",
   "description": "js checkers game",
+  "engines": {
+    "node": "12.x"
+  },
   "main": "index.js",
   "scripts": {
     "init": "git init && git add . && git commit --message \"first commit\" && npm i && npm run start",
